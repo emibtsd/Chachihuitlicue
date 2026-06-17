@@ -1,0 +1,11 @@
+# Archivos temporales de MPLAB X
+**/build/
+**/nbproject/private/
+**/disassembly/
+*.o
+*.d
+
+# Archivos temporales de Proteus
+*.pwi
+*.DBK
+*- Backup *
