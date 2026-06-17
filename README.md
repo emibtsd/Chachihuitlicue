@@ -8,4 +8,4 @@ Este repositorio contiene los trabajos realizados en la materia de Microcontrola
 * **Simulador:** Proteus 8
 
 ## 📂 Índice de Prácticas
-* [Práctica 1: Control de LEDs](./Practica_01/)
+* [Práctica 1: Control de LEDs](./Práctica 1/)
