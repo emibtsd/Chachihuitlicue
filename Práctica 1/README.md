@@ -9,4 +9,4 @@ Para ejecutar la simulación:
 2. Da doble clic al PIC16F887 y carga el archivo `.hex`.
 3. Presiona Play.
 
-![Circuito en Proteus](Actividad en clase - Simulación.png)
+![Evidencia del circuito de clase](Actividad%20en%20clase%20-%20Simulación.png)
