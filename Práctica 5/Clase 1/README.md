@@ -13,4 +13,4 @@ Consiste en un contador numérico del 0 al 9 utilizando displays de 7 segmentos 
 ## Evidencia de la simulación
 A continuación se muestra el diseño del circuito desarrollado en clase:
 
-![Evidencia del circuito de clase](Clase%201.png)
+![Evidencia del circuito de clase](Clase%202.png)
