@@ -1,4 +1,4 @@
-# Práctica 4: Display LCD 16x2
+# Práctica 6: Display LCD 16x2
 
 ## 📝 Clase
 
