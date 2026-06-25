@@ -13,4 +13,4 @@ Consiste en un sistema de conteo que abarca toda la escala hexadecimal, mostrand
 ## Evidencia de la simulación
 A continuación se muestra el esquema del circuito desarrollado para esta actividad en Proteus:
 
-![Evidencia del circuito](Actividad%203.png)
+![Evidencia del circuito](Practica%203_actividad.png)
