@@ -3,7 +3,9 @@
 ## ⚡ Actividad 1
 
 Escribir en la LCD el caracter presionado en el teclado matricial
+* [Actividad 1](./Actividad%201)
 
 ## ⚡ Actividad 2
 
 Realizar una calculadorá básica que sume, reste, multiplique y divida dos números ingresados con el teclado matricial.
+* [Actividad 2](./Actividad%202)
