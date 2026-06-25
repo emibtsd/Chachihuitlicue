@@ -13,4 +13,4 @@ El objetivo de este ejercicio es representar distintas letras por medio el encen
 ## Evidencia de la simulación
 A continuación se muestra el esquema del circuito desarrollado con la matriz de leds 8x8:
 
-![Evidencia del circuito](Practica%202_actividad.jpg)
+![Evidencia del circuito](Practica%202_actividad.png)
