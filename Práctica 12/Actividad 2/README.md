@@ -13,4 +13,4 @@ Consiste en la implementación de una calculadora básica interactiva. El sistem
 ## Evidencia de la simulación
 A continuación se muestra el esquema del circuito desarrollado para esta actividad en Proteus:
 
-![Evidencia del circuito](Actividad%2012.2.png)
+![Evidencia del circuito](Practica%2012.jpeg)
