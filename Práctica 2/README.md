@@ -1,6 +1,6 @@
 # Práctica 2: Salidas digitales con matriz 8x8
 
-## 📝 Clae
+## 📝 Clase
 Usar la matriz de LED 8x8 para mostrar una X.
 * [Clase](./Clase)
 
