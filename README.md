@@ -19,3 +19,8 @@ Este repositorio contiene los trabajos realizados en la materia de Microcontrola
 * [Proyecto Unidad 1: Videojuego con joystick y caracter especial](./Práctica%2010/)
 * [Práctica 9: Timer0](./Práctica%209/)
 * [Práctica 10: Timer1](./Práctica%2010/)
+* [Práctica 11: PWM por Hardware y PWM por Software](./Práctica%2011/)
+* [Práctica 12: Teclado matricial](./Práctica%2012/)
+* [Práctica 13: Motor DC](./Práctica%2013/)
+* [Práctica 14: Servomotores](./Práctica%2014/)
+* [Práctica 15: Comunicaciones](./Práctica%2015/)
