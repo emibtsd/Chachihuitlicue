@@ -13,4 +13,4 @@ Consiste en la variación de la velocidad de giro de un motor de corriente direc
 ## Evidencia de la simulación
 A continuación se muestra el esquema del circuito desarrollado para esta actividad en Proteus:
 
-![Evidencia del circuito](Actividad%2013.1.png)
+![Evidencia del circuito](Practica%2013_Circuito%20Driver.png)
