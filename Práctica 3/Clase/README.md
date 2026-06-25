@@ -13,4 +13,4 @@ Consiste en el diseño y programación de un contador numérico automático que 
 ## Evidencia de la simulación
 A continuación se muestra el diseño del circuito desarrollado en clase:
 
-![Evidencia del circuito de clase](Clase%203.png)
+![Evidencia del circuito de clase](Practica%203_clase.png)
