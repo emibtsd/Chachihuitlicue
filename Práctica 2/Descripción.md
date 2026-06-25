@@ -1,11 +1,10 @@
-# Título de mi Práctica 2
-Aquí puedes escribir un párrafo introductorio explicando de qué trata esta práctica de forma general.
+# Práctica 2: Control de LEDs con PIC16F887
 
-## ¿Qué incluye este proyecto?
-Puedes usar viñetas para hacer una lista de tus archivos o carpetas:
-* **Archivo 1:** Explicación breve de lo que hace.
-* **Archivo 2:** Otra explicación.
+## 📝 Descripción
+En esta actividad se programó el PIC16F887 para controlar el encendido y apagado de una barra de LEDs por medio de un delay de milisegundos
 
-## Instrucciones de uso
-1. Primer paso para usar el proyecto.
-2. Segundo paso.
+## ⚡ Simulación en Proteus
+Para ejecutar la simulación:
+1. Abre el archivo de Proteus que está en este repositorio.
+2. Da doble clic al PIC16F887 y carga el archivo `.hex`.
+3. Presiona Play.
