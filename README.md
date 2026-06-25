@@ -24,3 +24,4 @@ Este repositorio contiene los trabajos realizados en la materia de Microcontrola
 * [Práctica 13: Motor DC](./Práctica%2013/)
 * [Práctica 14: Servomotores](./Práctica%2014/)
 * [Práctica 15: Comunicaciones](./Práctica%2015/)
+* [Proyecto Final](./Proyecto%20Final/)
