@@ -1,4 +1,4 @@
-# Práctica 4: Contador de 0 a 99 con Displays de 7 Segmentos e Interfaz de Botones
+# Práctica 4: Actividad
 
 Este apartado contiene el desarrollo de la **Actividad de la Práctica 4**, donde se diseñó un contador manual de dos dígitos (00 a 99) controlado por el usuario mediante botones y visualizado en displays de 7 segmentos.
 
