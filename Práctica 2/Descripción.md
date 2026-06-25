@@ -1,7 +1,7 @@
-# Práctica 2: Control de LEDs con PIC16F887
+# Práctica 2: Salidas digitales con matriz 8x8
 
 ## 📝 Descripción
-En esta actividad se programó el PIC16F887 para controlar el encendido y apagado de una barra de LEDs por medio de un delay de milisegundos
+Configuración básica de pines como salidas digitales para controlar el encendido, apagado y secuencias de luces utilizando LEDs.
 
 ## ⚡ Simulación en Proteus
 Para ejecutar la simulación:
