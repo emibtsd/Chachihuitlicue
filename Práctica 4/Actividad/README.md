@@ -14,11 +14,6 @@ El circuito consta de una interfaz de control basada en tres botones (pulsadores
 2. **Botón de Decremento (-1):** Resta una unidad al contador, permitiendo regresar en el conteo.
 3. **Botón de Reset:** Reinicia instantáneamente el valor del contador a cero (`00`).
 
-### Lógica de Visualización (Multiplexación)
-Para mostrar las decenas y las unidades de forma independiente utilizando un número reducido de pines del microcontrolador, se implementó la técnica de **multiplexación por división de tiempo**. 
-
-El programa alterna el encendido del display de decenas y de unidades a una frecuencia muy alta. Debido a la persistencia de la visión humana, el ojo percibe ambos displays encendidos en todo momento mostrando el número correcto, mientras el código escanea constantemente el estado de los tres botones.
-
 ## Evidencia de la simulación
 A continuación se muestra el esquema del circuito desarrollado con los displays y la botonera en Proteus:
 
