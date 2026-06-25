@@ -13,4 +13,4 @@ Consiste en un sistema de control integral para un motor DC que permite regular 
 ## Evidencia de la simulación
 A continuación se muestra el esquema del circuito desarrollado para esta actividad en Proteus:
 
-![Evidencia del circuito](Actividad%2013.2.png)
+![Evidencia del circuito](Practica%2013_Puente%20H.png)
