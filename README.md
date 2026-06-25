@@ -16,7 +16,7 @@ Este repositorio contiene los trabajos realizados en la materia de Microcontrola
 * [Práctica 6: Interfaz con LCD 16x2](./Práctica%206/)
 * [Práctica 7: Lectura de 1 entrada analogica](./Práctica%207/)
 * [Práctica 8: Lectura de 2  entradas analogicas](./Práctica%208/)
-* [Proyecto Unidad 1: Videojuego con joystick y caracter especial](./Práctica%2010/)
+* [Proyecto Unidad 1: Videojuego con joystick y caracter especial](./Proyecto%20Unidad%201/)
 * [Práctica 9: Timer0](./Práctica%209/)
 * [Práctica 10: Timer1](./Práctica%2010/)
 * [Práctica 11: PWM por Hardware y PWM por Software](./Práctica%2011/)
