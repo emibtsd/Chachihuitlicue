@@ -4,6 +4,7 @@ Este apartado contiene los archivos desarrollados durante la sesión de clase de
 
 ## Contenido de la carpeta
 * **`README.md`**: Descripción de la actividad.
+* **`Practica2.X.production.hex`**: Archivo binario compilado listo para cargar en el microcontrolador.
 * **`Practica 2_actividad`**: Captura de pantalla del circuito funcionando en el simulador.
 * **`Practica 2.pdsprj`**: Archivo de la simulacion en proteus.
 
