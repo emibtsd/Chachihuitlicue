@@ -13,4 +13,4 @@ Consiste en un sistema de interfaz de usuario que realiza el escaneo de filas y 
 ## Evidencia de la simulación
 A continuación se muestra el esquema del circuito desarrollado para esta actividad en Proteus:
 
-![Evidencia del circuito](Actividad%2012.1.png)
+![Evidencia del circuito](Practica%2012.jpeg)
