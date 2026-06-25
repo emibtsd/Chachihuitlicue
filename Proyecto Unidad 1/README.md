@@ -3,4 +3,4 @@
 ## Proyecto 1
 
 Controlar la intensidad de un LED con un potenciómetro (PWM por hardware)
-* [Actividad 1](./Actividad%201)
+![Evidencia del circuito del proyecto](Clase%2010.png)
