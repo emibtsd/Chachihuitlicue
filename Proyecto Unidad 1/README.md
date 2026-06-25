@@ -2,5 +2,5 @@
 
 ## Proyecto 1
 
-Controlar la intensidad de un LED con un potenciómetro (PWM por hardware)
+Video juego con joystick y caracter especial
 ![Evidencia del circuito del proyecto](Proyecto%201.jpeg)
