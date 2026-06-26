@@ -1,12 +1,11 @@
-# Práctica 1: Control de LEDs con PIC16F887
+# Práctica 1: Timer 1
 
-## 📝 Descripción
-En esta actividad se programó el PIC16F887 para controlar el encendido y apagado de una barra de LEDs por medio de un delay de milisegundos
+## 📝 Clase
 
-## ⚡ Simulación en Proteus
-Para ejecutar la simulación:
-1. Abre el archivo de Proteus que está en este repositorio.
-2. Da doble clic al PIC16F887 y carga el archivo `.hex`.
-3. Presiona Play.
+Mostrar el tiempo de ejecución del microcontrolador en el display LCD. Utilizando el Timer 1
+* [Clase](./Clase)
 
-![Evidencia del circuito de clase](Actividad%20en%20clase%20-%20Simulación.png)
+## ⚡ Actividad 
+
+Mostrar el valor del voltaje de un potenciómetro en el display LCD y simultaneamente el tiempo de ejecución con el Timer 1.
+* [Actividad](./Actividad)
