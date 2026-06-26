@@ -1,16 +1,17 @@
 # Práctica 9 - Clase
 
-Este apartado contiene los archivos desarrollados durante la sesión de clase de la Práctica 9.
+Este apartado contiene el desarrollo de la actividad correspondiente a la Práctica 9.
 
 ## Contenido de la carpeta
 * **`README.md`**: Descripción de la actividad.
-* **`Clase 9.png`**: Captura de pantalla del circuito funcionando en el simulador.
-* *(Nota: Si tienes aquí tus archivos .pdsprj o .hex, puedes agregarlos a esta lista)*
+* **`Practica 9_clase.png`**: Captura de pantalla del circuito funcionando en el simulador.
+* **`Practica 9_clase.pdsprj`**: Simulación del circuito realizado con proteus.
+* **`Practica_9.X.production.hex`**: Archivo con la informacion en hexadecimal cargado al PIC.
 
 ## Descripción del Ejercicio
-Consiste en la configuración y uso del temporizador interno Timer 0 para registrar de manera exacta el tiempo transcurrido desde el encendido del sistema y desplegar el tiempo de ejecución del microcontrolador en la pantalla LCD 16x2.
+Consiste en un sistema embebido que realiza de manera simultánea la lectura analógica de un potenciómetro para mostrar su valor de voltaje en la pantalla LCD 16x2, mientras que en paralelo calcula y despliega el tiempo de ejecución del programa utilizando los desbordamientos del temporizador Timer 0.
 
 ## Evidencia de la simulación
-A continuación se muestra el diseño del circuito desarrollado en clase:
+A continuación se muestra el esquema del circuito desarrollado para esta actividad en Proteus:
 
-![Evidencia del circuito de clase](Clase%209.png)
+![Evidencia del circuito](Practica%209_clase.png)
