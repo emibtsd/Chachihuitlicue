@@ -1,16 +1,17 @@
 # Práctica 8 - Clase
 
-Este apartado contiene los archivos desarrollados durante la sesión de clase de la Práctica 8.
+Este apartado contiene el desarrollo de la actividad correspondiente a la Práctica 8.
 
 ## Contenido de la carpeta
 * **`README.md`**: Descripción de la actividad.
-* **`Clase 8.png`**: Captura de pantalla del circuito funcionando en el simulador.
-* *(Nota: Si tienes aquí tus archivos .pdsprj o .hex, puedes agregarlos a esta lista)*
+* **`Practica 8_clase.png`**: Captura de pantalla del circuito funcionando en el simulador.
+* **`Practica 8_clase.pdsprj`**: Simulación del circuito realizado con proteus.
+* **`Practica_8.X.production.hex`**: Archivo con la informacion en hexadecimal cargado al PIC.
 
 ## Descripción del Ejercicio
-Consiste en realizar la lectura analógica simultánea de dos potenciómetros distintos utilizando los canales del convertidor analógico-digital (ADC) del microcontrolador, desplegando de forma continua ambos valores de voltaje en la pantalla LCD 16x2.
+Consiste en un sistema avanzado de monitoreo analógico para dos potenciómetros que implementa dos botones de control interactivo: el primer botón permite intercalar de forma cíclica el formato de visualización en la pantalla LCD (valor bruto ADC, Voltaje o Porcentaje), mientras que el segundo botón conmuta la pantalla para elegir cuál de los dos potenciómetros se desea visualizar.
 
 ## Evidencia de la simulación
-A continuación se muestra el diseño del circuito desarrollado en clase:
+A continuación se muestra el esquema del circuito desarrollado para esta actividad en Proteus:
 
-![Evidencia del circuito de clase](Clase%208.png)
+![Evidencia del circuito](Practica%208_clase.png)
