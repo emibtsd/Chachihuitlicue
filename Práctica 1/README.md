@@ -1,11 +1,11 @@
-# Práctica 1: Timer 1
+# Práctica 1: Control de LEDs
 
 ## 📝 Clase
 
-Mostrar el tiempo de ejecución del microcontrolador en el display LCD. Utilizando el Timer 1
+Programar una de las salidas para prender y apagar un led por medio de delays.
 * [Clase](./Clase)
 
 ## ⚡ Actividad 
 
-Mostrar el valor del voltaje de un potenciómetro en el display LCD y simultaneamente el tiempo de ejecución con el Timer 1.
+Programar el PIC para prender y apagar leds de tal modo que se realice una "caminata".
 * [Actividad](./Actividad)
